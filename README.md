@@ -1,3 +1,9 @@
+<!-- GitHub 主页 README（支持中英文） -->
+<!-- https://github.com/lizhichen-chen -->
+
+<h1 align="center">Hi 👋，我是 Lizhichen | I'm Lizhichen</h1>
+<h3 align="center">🚀 热爱自动化、嵌入式与网络安全的创作者 | Maker passionate about automation & embedded systems</h3>
+
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
