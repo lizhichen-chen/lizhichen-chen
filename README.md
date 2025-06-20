@@ -22,3 +22,23 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture
 </div>
+
+##  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://github.com/lastsunday/job-hunting/blob/dev/docs/logo.svg" />
+
+<p>&emsp;&emsp;大家好，我是小陈同学。热爱硬件DIY、读书、旅行。</p>
+<p>&emsp;&emsp;热爱生活，希望能成为一名优秀的懂得生活和爱其他人的人。</p>
+<p>&emsp;&emsp;希望拓展学习更多，通过自己的硬件和软件设计改变生活。</p>
+<p>&emsp;&emsp;生活是残酷的，但是我们是一直进步的。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
